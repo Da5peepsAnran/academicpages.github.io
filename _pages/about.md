@@ -7,27 +7,48 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+# My Top 10 Favorite Books
 
-Hello, young tech enthusiasts! 👋
+I'm a passionate reader, and I'd like to share my top 10 favorite books with you. These books have had a significant impact on me, and I highly recommend them to anyone looking for a good read.
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+1. **Killer in the Kremlin**
+   - *Author*: Brian Freemantle
+   - *Description*: A thrilling espionage novel that keeps you on the edge of your seat.
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
+2. **Law and Disorder**
+   - *Author*: John Douglas
+   - *Description*: An insightful look into the world of criminal profiling by an FBI legend.
 
-## About Mr. Daviddhc20120601
+3. **Killer by Design**
+   - *Author*: J.T. Ellison
+   - *Description*: A gripping crime thriller that will leave you guessing until the end.
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+4. **When Breath Becomes Air**
+   - *Author*: Paul Kalanithi
+   - *Description*: A moving memoir that explores life and death from a doctor's perspective.
 
-🏫 **Grade:** Sixth Grade
+5. **Stalking Jack the Ripper**
+   - *Author*: Kerri Maniscalco
+   - *Description*: A captivating historical mystery that delves into the dark legend of Jack the Ripper.
 
-🖥️ **Subject:** Computer Science
+6. **The Infernal Devices Series**
+   - *Author*: Cassandra Clare
+   - *Description*: An enchanting fantasy series with a blend of magic, romance, and adventure.
 
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
+7. **Miss Peregrine’s Peculiar Children**
+   - *Author*: Ransom Riggs
+   - *Description*: A unique and eerie tale of children with extraordinary abilities.
 
-## What to Expect
+8. **Born a Crime**
+   - *Author*: Trevor Noah
+   - *Description*: Trevor Noah's hilarious and touching memoir about growing up in apartheid-era South Africa.
 
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
+9. **Truly Devious**
+   - *Author*: Maureen Johnson
+   - *Description*: A thrilling mystery set in a prestigious boarding school with a dark past.
 
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
+10. **Harry Potter Series**
+    - *Author*: J.K. Rowling
+    - *Description*: The beloved series that takes you to a magical world of wizards, spells, and adventures.
 
+These books cover a wide range of genres, from thrillers to fantasy, memoirs to mysteries. I hope you find something here that piques your interest and provides you with hours of enjoyable reading.
