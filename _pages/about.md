@@ -57,8 +57,5 @@ Welcome to my reading world! Here's a list of my top 10 favorite books, each off
 
 
 Feel free to explore these literary gems and dive into worlds of mystery, fantasy, and personal reflection. Happy reading!
-- **Author:** Anthony Horowitz
-- **Description:** Explore high-stakes espionage with the Alex Rider, a teenage spy who takes on dangerous missions in this action-packed and gripping young adult adventure.
-
 
 Feel free to explore these literary gems and dive into worlds of mystery, fantasy, and personal reflection. Happy reading!
