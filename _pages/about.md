@@ -61,6 +61,5 @@ Feel free to explore these literary gems and dive into worlds of mystery, fantas
 - **Author:** Anthony Horowitz
 - **Description:** Explore high-stakes espionage with the Alex Rider, a teenage spy who takes on dangerous missions in this action-packed and gripping young adult adventure.
 
-  ![Alex Rider](https://images.app.goo.gl/kbxK3mZABhstiAWV6)
 
 Feel free to explore these literary gems and dive into worlds of mystery, fantasy, and personal reflection. Happy reading!
